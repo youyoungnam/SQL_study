@@ -1,0 +1,5 @@
+문제
+Query all columns (attributes) for every row in the CITY table.
+답
+SELECT * 
+FROM CITY
